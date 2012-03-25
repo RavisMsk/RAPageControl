@@ -1,2 +1,5 @@
-This is custom UIPageControl class. It is created to replace standart design of UIPageControl. All you have to do is to set your own design, and connect it to selectors approximately the same you did with standart UIPageControl.
+This is custom UIPageControl class. 
+It is created to replace standart design of UIPageControl. 
+All you have to do is to set your own design, 
+and connect it to selectors approximately the same you did with standart UIPageControl.
 
